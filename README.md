@@ -1,5 +1,5 @@
 # Check domain age using pthon script :)
-# Using api :
+### Using api :
  
  ```
  https://input.payapi.io/v1/api/fraud/domain/age/google.com
