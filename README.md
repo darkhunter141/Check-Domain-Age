@@ -1,4 +1,4 @@
-#Check domain age using pthon script :)
+# Check domain age using pthon script :)
 
 
 <br>
